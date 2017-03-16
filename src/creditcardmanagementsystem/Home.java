@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Git hub is working on this project
+
  */
 package creditcardmanagementsystem;
 import java.sql.*;
